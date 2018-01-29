@@ -1,6 +1,7 @@
 # Two Player Snake
 
-Two player snake game, written on javascript
+//Two player snake game, written on javascript
+One player snake game, written on javascript
 
 ### Gameplay
 
